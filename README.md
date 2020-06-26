@@ -19,3 +19,5 @@ localhost:8888/limits-service/default
 
 propertysources are in the order of priorities
 the value which was inside the default but which was not present in dev.properties. then the value from the efault will be picked up.
+
+spring cloud config server is used to manage all the configuration related to mulitple microservices
