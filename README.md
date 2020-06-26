@@ -13,7 +13,7 @@ To check where the spring-cloud-config-server able to acceess the git repo(where
 localhost:8888/limits-service/qa
 localhost:8888/limits-service/prod
 localhost:8888/limits-service/dev
-localhost:8888/limits-service/default
+localhost:8888/limits-service/default 
 
 
 
